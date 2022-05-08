@@ -1,0 +1,5 @@
+{
+  "caFile": "ca.crt",
+  "keyFile": "tls.key",
+  "certFile": "tls.crt"
+}

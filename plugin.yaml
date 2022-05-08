@@ -1,0 +1,8 @@
+name: "helm-etcd"
+version: "0.1.0"
+description: |-
+  Get custom values.yaml directly from etcd.
+downloaders:
+  - command: "helm-etcd"
+    protocols:
+      - "etcd"
